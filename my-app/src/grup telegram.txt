@@ -1,0 +1,463 @@
+digitradiart, [11.08.20 17:57]
+[Forwarded from Programmer Pak Epsi]
+Dear kawan2,
+Apa kabaaar ...
+
+Setelah sekian lama, saya perbarui juga daftar ini 🙈. Dan masih secara berkala kusebar.
+
+Pemula linux dapat memulai dengan mengikuti group (paguyuban): @GNULinuxIndonesia.
+
+Bagi pengguna GNU/Linux, kalau sudah lebih dari setahun pakai distro, bisa mulai kepo simak distro lain:
+
+📌 @VoidLinuxID
+
+🍔 @FedoraID
+🍔 @centosID
+🍔 @openSUSE_ID
+
+🌮 @manjaroID
+🌮 @ArchLinuxID
+🌮 @CodernateLinuxID
+
+🌭 @BlankOnLinux
+🌭 @DebianID
+🌭 @ubuntu_id
+🌭 @mint_id
+🌭 @elementaryID
+🌭 @proxmoxid
+🌭 @MXLinuxIndonesia
+
+🥙 @tealinux
+🥙 @endlessos_id
+🥙 @deepin_indonesia
+
+🍤 @GPG_Indonesia
+🍤 @SlackwareID [sekarang private group]
+
+🍤 @lfsid
+🍤 @dracoslinuxid
+🍤 @ibislinux
+
+catatan 🥖: mohon maaf kalau ada yang belum dimasukkan.
+catatan 🥓: namun ada yang sengaja tidak dimasukkan.
+
+Bagi yang suka hacking, lebih baik masuk ke group khusus misalnya:@Metasploitid, @reversingid, @kriptografiid, @Kriptografi, @ForensicaID, @ScrapeID, atau @bashidorg. Supaya tidak terjebak group yang dipenuhi pertanyaan mendasar dari n00b.
+
+Invalid Link: SolusID.
+
+Kustomisasi:
+
+🍓 @dotfiles_id 👉🏽 @dotfiles_id_channel
+
+Text Editor:
+
+🍓 @VimID
+🍓 @emacsID
+
+Aplikasi:
+
+🥁 @gimpscape
+🥁 @inkscapedia
+🥁 @Blender3DIndonesia
+🥁 @inkscapefontforge
+🥁 @LibreOfficeID
+🥁 @BelajarLibreOfficeIndonesia.
+
+Aplikasi Backend:
+
+🥁 @zimbraID
+
+Group (paguyuban) umum:
+
+🍓 @komunitasremasterlinuxindonesia
+🍓 @RemasterGNULinuxIndonesia
+🍓 @GNULinuxIndonesia
+🍓 @unixlikeindonesia
+
+Non Linux:
+
+🥐 @freebsdid
+🥐 @setanmerahID
+🥐 @openbsdindonesia
+🕷 @pegelbsd
+
+Group Baru:
+
+🕷 @nixosid
+🕷 @linuxclearID
+🐾 @centos_id
+🐾 @XentaOS
+🐾 @oss_id
+
+Hiburan
+
+📌 @GNUWibu
+📌 @LinuxID_OOT
+
+Selain distro coba juga environment-nya:
+
+🍩 @gnomeid
+🍪 @kdeid
+
+Sekian 🎸.
+
+digitradiart, [11.08.20 17:57]
+[Forwarded from Programmer Pak Epsi]
+Paguyuban Coding
+
+Assalamualaikum Wr. Wb.
+
+Setelah sekian lama, saya perbarui juga daftar ini.
+
+-- -- --
+
+Khusus
+
+🕷 @CodeReviewID
+
+Assembly
+
+🕷 @TeaInside
+🕷 @AssemblyID
+
+Script
+📍 @bashidorg
+📍 @idpyplc
+📍 @pythonID 👉🏽 @suspendedcause
+👣 @rubyist_cupu
+📍 @ruby_id
+📍 @perl_id
+📍 @lua_id
+
+Functional
+📍 @elixir_id
+📍 @clojure_id
+📍 @haskell_id
+📍 @erlang_id
+📍 @ocamlid
+📍 @GNURIndonesia
+
+Compiled/Binary
+
+📍 @CCpp_Indonesia
+📍 @idcplc
+📍 @PascalID
+🥁 @idqtc
+📍 @gophers_id
+📍 @golangID
+📍 @rustindonesia
+📍 @CrystalID
+📍 @JVMIndonesia
+📍 @JavaIndonesia
+📍 @KotlinID
+📍 @dart_id
+📍 @idjlw
+📍 @zigindonesia
+
+Javascript Like:
+
+🥁 @TypescriptIndonesia
+🥁 @nativescriptid
+🥁 @nativescript_id
+🥁 @reasonML_id
+
+Database
+
+📍 @mysqlid
+📍 @sqliteid
+📍 @pgsqlid
+📍 @postgresql_id
+
+📍 @firebaseid
+📍 @MongoDB_ID
+
+🕷 @indonesia_dbdesigner_id
+
+💋 @foxpro
+
+Game/VR
+
+📍 @unity_id
+📍 @unity3d_Indonesia
+📍 @vr_id
+
+DS/BD/ML/AI:
+
+🥁 @bigdataID
+🥁 @machinelearningid
+🥁 @tensorflowid
+🥁 @tf_id
+🥁 @nlp_lounge
+🥁 @pytorchid
+🥁 @ai_indonesia
+🐾 @ArtificialIntelligence_Indonesia
+🐾 @GeomaticsTechID
+🐾 @SeputarData
+🐾 @statistikazone
+🐾 @dsibali
+
+Quantum
+🕷 @idqce
+
+Umum/Komunitas
+ 
+🐾 @soft_eng_id
+👣 @tamankodekode
+🥁 @petani_kode
+🥁 @sinaudev
+🥁 @teknikinformatika
+🥁 @doscomedia
+🥁 @indie_devs
+🥁 @Cafestartup
+🥁 @pegelounge
+🥁 @ITNusantara
+🥁 @dusunweb
+🐾 @pegelounge
+🐾 @programmerlokal
+
+-- -- --
+
+Semoga mendapat apa yang engkau butuhkan ya bang.
+
+Wassalamualaikum Wr. Wb.
+
+digitradiart, [11.08.20 17:57]
+[Forwarded from Programmer Pak Epsi]
+Paguyuban Pengembang Web
+
+Dear kawan2,
+Apa kabaaar...
+
+Setelah sekian lama, saya bikin juga daftar ini 🙈.
+
+-- -- --
+
+Kemampuan Dasar:
+
+🥁 @freekelasgithub
+
+Komunitas:
+
+🥁 @tamankodekode
+
+-- -- --
+
+Frontend:
+
+🕷 @htmlindonesia
+📍 @belajarhtmlcss
+📍 @FrontEndID
+📍 @jkt_frontend_dev
+📍 @css_tools_id
+📍 @Diskusiantarbahasaprograman
+📍 @webdevid
+
+CSS Framework:
+
+📍 @bootstrap_id
+📍 @bulma_id
+📍 @TailwindID
+
+Static Site Generator:
+
+📍 @gohugoid
+📍 @jekyllID
+📍 @hexo_id
+📍 @id_11ty
+📍 @nuxtjsid
+📍 @gatsbyjsid
+
+UI/UX:
+
+🕷 @uixdindo
+🕷 @UiuxIndo
+
+PWA:
+
+📍 @pwaID
+📍 @wwwid_pwa
+
+Miscellanous:
+
+📍 @polymer_id
+
+Serverless:
+
+📍 @firebaseid
+
+-- -- --
+
+Backend:
+
+🕷 @BackEndID
+
+Backend Framework:
+
+📍 @flaskid
+📍 @DjangoID
+📍 @RailsID
+📍 @dart_web
+
+PHP:
+
+📍 @phpidcommunity
+📍 @PHPIDforStudent
+📍 @codeigniterindonesia
+📍 @laravelindonesia
+📍 @symfonyid
+
+Server:
+
+🐾 @id_nginx
+
+Service:
+
+📍 @microserviceid
+👣 @micronaut_id
+
+-- -- --
+
+DevOps:
+
+🥁 @sqa_id
+🥁 @IDDevOps
+🥁 @sdnnfvug
+🥁 @ServerlessTech
+🥁 @ansibleid
+🥁 @github_action_international (english)
+
+Cloud:
+
+🥁 @AWSUserGroupID
+🥁 @dockeridn (ex  @dockerid)
+🥁 invite (ex @openstackid)
+
+-- -- --
+
+Javascript:
+
+🕷 @nodejsid
+🕷 @nodejsindo
+🕷 @deno_id
+🕷 @js_id
+🕷 @javascript_rocks
+🕷 @electronatom
+
+Javascript Framework:
+
+🕷 @svelte_id
+🕷 @belajarjquery
+
+🕷 @emberjsID
+🕷 @vuejsid
+🕷 @vuejsindonesia
+🕷 @adonisid
+🕷 @nestjs_indonesia
+🕷 @LoopbackID
+🕷 @belajarmeteorjs
+🕷 @redwoodjsid
+
+🕷 @reactnative_id
+🕷 @react_id
+🕷 @reactnoob
+
+Javascript Like:
+
+🥁 @TypescriptIndonesia
+🥁 @nativescriptid
+🥁 @nativescript_id
+
+-- -- --
+
+Mobile:
+
+📍 @indonesiaionic
+📍 @nativescriptid
+📍 @flutterindonesia
+📍 @flutter_id
+📍 @cordovaindo
+📍 @freekelasphonegapcordova
+
+-- -- --
+
+Web Assembly:
+
+📍 @WebAssemblyID
+📍 @WASM_INDONESIA
+
+-- -- --
+
+Method
+
+🥁 @agilecirclesid
+🥁 @ScrumJakarta
+🥁 @scrumid
+
+-- -- --
+
+Humor
+
+🥁 @komunitasbackenddev
+
+-- -- --
+
+Semoga mendapat apa yang engkau butuhkan ya bang 🤠.
+
+digitradiart, [11.08.20 17:57]
+[Forwarded from Programmer Pak Epsi]
+Assalamualaikum Wr. Wb.
+
+Setelah sekian lama, saya perbarui juga daftar ini 🙈.
+
+-- -- --
+ 
+IoT:
+ 
+🦑 @IoTIndonesia
+🥁 @blockchainiotIDN
+🥁 @lombok_iot
+
+Board:
+
+🥁 @arduinoclub_id (paguyuban group arduino yang baru dengan admin)
+🦑 @arduinoelektro (tampol, gif)
+🥁 @raspberrypi_id
+
+Miscellanous: 
+
+🥁 @edukasielektronika
+🥁 @maker4nation
+
+Robotika:
+
+🍓 @kelasrobotgrup
+🍓 @labrobotika
+📍 @indonesiadrone
+🕷 @dronecoderid
+🍓 @dronehacking
+🥁 @tigaDIndonesia
+
+Network:
+
+🥁 @opennetworkid
+🥁 @belajarnetworking
+🥁 @SIRENGNetwork
+🕷 @teknisijaringanind
+🕷 @rtrw_id
+🍓 @pegelwrt
+
+Teknik:
+
+🥁 @plc_indonesia
+📍 @komunitasautocadindonesia
+🕷 @DrafterIndonesia
+🕷 @anakteknik
+🕷 @digambarin_studio
+🕷 @klistrik
+🕷 @TeknikLingkunganIndonesia
+
+-- -- --
+
+Semoga mendapat apa yang engkau butuhkan ya bang.
+
+Wassalamualaikum Wr. Wb.
