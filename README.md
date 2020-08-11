@@ -58,3 +58,11 @@ GET https://backendexample.sanbersy.com/api/users/{ID_USER}
 POST https://backendexample.sanbersy.com/api/users
 
 PUT https://backendexample.sanbersy.com/api/users/{ID_USER}
+
+Pengumpulan
+
+untuk pengumpulan silahkan memasukkan data-data diri, url netlify dan url repository git pada form di bawah ini
+
+https://forms.gle/EHbAFK8xPG2u9xdXA
+
+untuk batas pengumpulan final project maksimal di kumpulkan pada hari minggu 16 agustus 2020 pukul 23.59
