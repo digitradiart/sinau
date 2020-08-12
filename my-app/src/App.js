@@ -1,15 +1,15 @@
 import React from 'react';
-// import logo from './logo.svg';
+import Main from './layouts/Main';
 import './App.css';
+import {UserProvider} from "./context/UserContext"
 
 function App() {
   return (
-    <div className="App">
-      <header>
-        <h1>Hello There!</h1>
-      </header>
-      
-    </div>
+    <>
+      <UserProvider>
+        <Main />
+      </UserProvider>
+    </>
   );
 }
 
