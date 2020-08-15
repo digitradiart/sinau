@@ -1,7 +1,7 @@
 import React, { useContext } from "react"
 import { Link } from "react-router-dom";
-import { UserContext } from "../context/UserContext";
-import TimeDate from "./TimeDate";
+import { UserContext } from "../context/UserContext"
+
 
 const Header =() =>{
   const [user, setUser] = useContext(UserContext)
@@ -13,7 +13,6 @@ const Header =() =>{
   return(    
     <header>
       <img id="logo" src="/img/alifyawaw.png" width='65px' alt="Logo brand" />
-      <TimeDate />
       <nav>
         <ul>
           <li><Link to="/">Movies</Link></li>

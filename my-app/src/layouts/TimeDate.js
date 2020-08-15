@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import './TimeDate.css';
 
 class TimeDate extends Component {  constructor() {
     super()    

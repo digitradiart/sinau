@@ -13,7 +13,7 @@
 
 body {
   padding-top: 100px;
-  background-image: url(/img/spencer-watson-p0Yupww_SNM-unsplash.jpg);
+  background-image: url(/img/speed-motion-futuristic-red-background_23-2148400714.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -70,15 +70,24 @@ h5 {
 }
 
 footer {
-  position: fixed;
+  height: 50px;
+  position: relative;
   width: 100%;
   bottom: 0;
   right: 0px;
   left: 0px;
-  background-color: mediumvioletred;
+  background-color: maroon;
   color: white;
+  /* justify-content: center;
+  align-items: center; */
+  margin-bottom: 0;
+}
+
+footer ul li {
+  font-size: 14px;
+  display: inline-block;
+  text-decoration: none;
+  padding: 0 10px;
   justify-content: center;
   align-items: center;
-  padding: 10px auto;
-  margin-bottom: 0;
 }
