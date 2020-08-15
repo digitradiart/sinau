@@ -27,8 +27,6 @@ const Section = () =>{
   const LoginRoute = ({user, ...props }) =>
   user ? <Redirect to="/" /> : <Route {...props} />;
 
-
-
   return(    
     <section >
       <Switch>

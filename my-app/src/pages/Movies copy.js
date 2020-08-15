@@ -18,7 +18,7 @@ const Movies = () => {
 
   useEffect( () => {
     if (movies === null){
-      axios.get(`https://backendexample.sanbersy.com/api/movies`)
+      axios.get(`https://www.backendexample.sanbersy.com/api/movies`)
       .then(res => {
           setMovies(res.data.map(el=>{ return {
             id: el.id, 
@@ -82,7 +82,7 @@ const Movies = () => {
 
     if (title.replace(/\s/g,'') !== ""){      
       if (statusForm === "create"){        
-        axios.post(`https://backendexample.sanbersy.com/api/movies`, {
+        axios.post(`https://www.backendexample.sanbersy.com/api/movies`, {
           title: input.title,
           description: input.description,
           year: input.year,
@@ -166,7 +166,7 @@ const Movies = () => {
 
   return(
     <>
-      <h1>Ready to watch?</h1>
+      <h1>Daftar Peserta Lomba</h1>
       <table>
         <thead>
           <tr>

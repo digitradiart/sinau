@@ -1,6 +1,7 @@
 import React, { useContext } from "react"
 import { Link } from "react-router-dom";
 import { UserContext } from "../context/UserContext";
+import TimeDate from "./TimeDate";
 
 const Header =() =>{
   const [user, setUser] = useContext(UserContext)
@@ -12,13 +13,14 @@ const Header =() =>{
   return(    
     <header>
       <img id="logo" src="/img/alifyawaw.png" width='65px' alt="Logo brand" />
+      <TimeDate />
       <nav>
         <ul>
           <li><Link to="/">Movies</Link></li>
-          <li><Link to="/about">About </Link> </li>
+          <li><Link to="/About">About </Link> </li>
           { user && <li><Link to="/Movies">Movie List Editor </Link></li> }
           { user === null && <li><Link to="/Login">Login </Link></li> }
-          { user && <li><a style={{cursor: "pointer"}} onClick={handleLogout}>Logout </a></li> }
+          { user && <li><a style={{cursor: "pointer"}} onClick={handleLogout}>Logout</a></li> }
         </ul>
       </nav>
     </header>

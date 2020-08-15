@@ -1,5 +1,8 @@
 import React, { useContext, useState } from "react"
 import {UserContext} from "../context/UserContext"
+import './Login.css'
+import LockOutlinedIcon from '@material-ui/icons/LockOutlined';
+import Avatar from '@material-ui/core/Avatar';
 
 const Login = () =>{
   const [, setUser] = useContext(UserContext)
@@ -33,7 +36,12 @@ const Login = () =>{
 
   return(
     <>
+      <div className="login-form">
+      <Avatar>
+          <LockOutlinedIcon />
+      </Avatar>
       <form onSubmit={handleSubmit}>
+      
         <label>Username: </label>
         <input type="text" name="username" onChange={handleChange} value={input.username}/>
         <br/>
@@ -42,6 +50,8 @@ const Login = () =>{
         <br/>
         <button>Login</button>
       </form>
+      </div>
+      
     </>
   )
 }
