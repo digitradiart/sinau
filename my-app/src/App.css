@@ -39,17 +39,21 @@
 
 
 body {
-  background-image: url(/img/pattern.jpg);
+  background-image: url(/img/kotatuajkt.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   font-family: 'Slabo 27px', serif;
   margin: 0px;
 }
 
 header {
-  background-color: white;
-  height: 50px;
+  background-color: burlywood;
+  height: 65px;
   display: flex;
   justify-content: space-between;
-  padding: 5px;
+  padding: 12px 24px;
   position: fixed;
   top: 0px;
   right: 0px;
@@ -65,7 +69,7 @@ nav li {
 
 nav li a {
   text-decoration: none;
-  color: #000;
+  color: white;
   padding: 10px;
 }
 
@@ -97,10 +101,10 @@ footer {
   bottom: 0px;
   right: 0px;
   left: 0px;
-  background-color: black;
+  background-color: bisque;
   color: white;
-  height: 51px;
+  height: 30px;
   justify-content: center;
   align-items: center;
+  padding: 12px 0;
 }
-

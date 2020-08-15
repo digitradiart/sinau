@@ -11,13 +11,13 @@ const Header =() =>{
 
   return(    
     <header>
-      <img id="logo" src="/img/logo.png" width="200px" alt="Logo SanberCode" />
+      <img id="logo" src="/img/alifyawaw.png" width='65px' alt="Logo brand" />
       <nav>
         <ul>
-          <li><Link to="/">Home</Link></li>
+          <li><Link to="/">Movies</Link></li>
           <li><Link to="/about">About </Link> </li>
-          { user && <li><Link to="/movies">Movie List Editor </Link></li> }
-          { user === null && <li><Link to="/login">Login </Link></li> }
+          { user && <li><Link to="/Movies">Movie List Editor </Link></li> }
+          { user === null && <li><Link to="/Login">Login </Link></li> }
           { user && <li><a style={{cursor: "pointer"}} onClick={handleLogout}>Logout </a></li> }
         </ul>
       </nav>
