@@ -23,10 +23,13 @@ class Home extends Component {
       let movies = res.data.map(el=>{ return {
         id: el.id, 
         title: el.title, 
-        rating: el.rating,
+        description: el.description,
+        year: el.year,
         duration: el.duration,
         genre: el.genre,
-        description: el.description
+        rating: el.rating,
+        review: el.review,
+        image: el.image_url
       }})
       this.setState({movies})
     })
@@ -36,18 +39,22 @@ class Home extends Component {
     return (
       <>
         <h1>Daftar Film Film Terbaik</h1>
-        <div id="article-list">
+        <div className="article-list">
           {
             this.state.movies.map((item)=>{
               return(
                 <div>
                   <h3>{item.title}</h3>
+                  <strong>Image: {item.image_url}</strong><br/>
+                  <strong>Year: {item.year}</strong><br/>
                   <strong>Rating {item.rating}</strong><br/>
-                  <strong>Durasi: {minuteToHours(item.duration)}</strong><br/>
-                  <strong>genre: {item.genre}</strong>
+                  <strong>Duration: {minuteToHours(item.duration)}</strong><br/>
                   <p>
-                    <strong>deskripsi</strong>: 
+                    <strong>Description</strong>: 
                     {item.description}
+                  </p>
+                  <p>
+                    <strong>Review: {item.review}</strong>
                   </p>
                   <hr/>
                 </div>

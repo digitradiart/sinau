@@ -18,7 +18,7 @@ const Movies = () => {
 
   useEffect( () => {
     if (movies === null){
-      axios.get(`https://backendexample.sanbersy.com/api/movies`)
+      axios.get(`https://backendexample.sanbersy.com/api/games`)
       .then(res => {
           setMovies(res.data.map(el=>{ return {
             id: el.id, 
@@ -261,3 +261,38 @@ const Movies = () => {
 }
 
 export default Movies
+
+
+// import React, { Component } from 'react';
+
+// class Movies extends Component {
+//     constructor() {
+//         super();
+//         this.state = {
+//             name: 'React',
+//             awsApiData: [],
+//         };
+//     }
+
+//     componentDidMount() {
+//         console.log('app mounted');
+//         /*global fetch */
+//         fetch('https://onelbip0e6.execute-api.eu-west-2.amazonaws.com/livestage/xxxx')
+//             .then(data => data.json())
+//             .then(data => this.setState({ awsApiData: data }, () => console.log(data)));
+//     }
+
+//     render() {
+//         const data = this.state.awsApiData;
+//         return (
+//             <div className="main-content container">
+//          {(data && data.home) &&
+//             <div><h2>{data.home[0].title}</h2><br /><p>{data.home[0].body}</p>
+//             <img src="{data.home[0].image}" alt="image"></img>
+//             </div>
+//         }    
+//     </div>
+//         );
+//     }
+// }
+// export default Movies;

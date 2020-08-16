@@ -47,6 +47,14 @@ nav li a {
   padding: 10px;
 }
 
+nav li a:hover {
+  border-bottom: solid 2px white;
+}
+
+nav li a:active {
+  background-color: maroon;
+}
+
 section {
   margin-left: 200px;
   margin-right: 200px;
@@ -70,16 +78,16 @@ h5 {
 }
 
 footer {
-  height: 50px;
-  position: relative;
+  /* height: 50px; */
+  position: fixed;
   width: 100%;
   bottom: 0;
   right: 0px;
   left: 0px;
   background-color: maroon;
   color: white;
-  /* justify-content: center;
-  align-items: center; */
+  justify-content: center;
+  align-items: center;
   margin-bottom: 0;
 }
 
@@ -90,4 +98,11 @@ footer ul li {
   padding: 0 10px;
   justify-content: center;
   align-items: center;
+}
+
+.login-form {
+  background-color: maroon;
+  color: white;
+  padding: 50px;
+  border-radius: 10px;
 }

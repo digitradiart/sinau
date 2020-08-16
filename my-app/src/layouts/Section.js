@@ -31,9 +31,9 @@ const Section = () =>{
     <section >
       <Switch>
         <Route exact path="/" user={user} component={Home}/>
-        <Route exact path="/about" user={user} component={About}/>
-        <LoginRoute exact path="/login" user={user} component={Login}/>
-        <PrivateRoute exact path="/movies" user={user} component={Movies}/>
+        <Route exact path="/About" user={user} component={About}/>
+        <LoginRoute exact path="/Login" user={user} component={Login}/>
+        <PrivateRoute exact path="/Movies" user={user} component={Movies}/>
       </Switch>
     </section>
   )

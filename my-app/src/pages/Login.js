@@ -37,21 +37,19 @@ const Login = () =>{
   return(
     <>
       <div className="login-form">
-      <Avatar>
-          <LockOutlinedIcon />
-      </Avatar>
-      <form onSubmit={handleSubmit}>
-      
-        <label>Username: </label>
-        <input type="text" name="username" onChange={handleChange} value={input.username}/>
-        <br/>
-        <label>Password: </label>
-        <input type="password" name="password" onChange={handleChange} value={input.password}/>
-        <br/>
-        <button>Login</button>
-      </form>
+        <form onSubmit={handleSubmit}>
+          <Avatar style={{margin: '10px auto', padding:'5px'}}>
+            <LockOutlinedIcon />
+          </Avatar>
+          <label>Username: </label>
+          <input type="text" name="username" onChange={handleChange} value={input.username}/>
+          <br/>
+          <label>Password: </label>
+          <input type="password" name="password" onChange={handleChange} value={input.password}/>
+          <br/>
+          <button>Login</button>
+        </form>
       </div>
-      
     </>
   )
 }
