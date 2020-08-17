@@ -106,3 +106,10 @@ footer ul li {
   padding: 50px;
   border-radius: 10px;
 }
+
+.cards {
+  background-color: mediumaquamarine;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 20px;
+}

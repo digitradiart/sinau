@@ -43,7 +43,7 @@ class Home extends Component {
           {
             this.state.movies.map((item)=>{
               return(
-                <div>
+                <div className="cards">
                   <h3>{item.title}</h3>
                   <strong>Image: {item.image_url}</strong><br/>
                   <strong>Year: {item.year}</strong><br/>
